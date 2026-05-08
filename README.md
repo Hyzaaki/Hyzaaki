@@ -1,8 +1,8 @@
 ## Hi, I’m Isaac, a computer engineer! 
 
 <div align="center">
-  <img   src="https://github-readme-stats.vercel.app/api?username=Hyzaaki&show_icons=true&theme=dracula&rank_icon=github"/>
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyzaaki&layout=compact&langs_count=16&theme=dracula"/>
+  <img   src="https://github-readme-stats.vercel.app/api?username=isaac-schuenck&show_icons=true&theme=dracula&rank_icon=github"/>
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-schuenck&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
 
